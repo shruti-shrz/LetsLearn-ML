@@ -1,2 +1,2 @@
 # LetsLearn-ML
-[link](chrome://extensions/)
+[link](https://github.com/shruti-shrz/LetsLearn-ML/edit/master/README.md)
